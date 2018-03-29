@@ -8,6 +8,10 @@ Breznau, Nate. 2017. “[Positive Returns and Equilibrium: Simultaneous Feedback
 
 Breznau, Nate. forthcoming. “[Simultaneous Feedback Models with Macro-Comparative Cross-Sectional Data](https://doi.org/10.12758/mda.2017.07).” _Methods, Data, Analyses_.
 
+And for the working paper:
+
+Breznau, Nate. working. "Positive Return Decay: The Declining Role of Social Policy Preferences in Democracies." _still under production_
+
 
 # Constructing the Datasets
 ## ISSP 
@@ -18,4 +22,8 @@ __Role of Government__ 1985 ([ZA1490.dta](http://dx.doi.org/10.4232/1.1490)), 19
 __Religion__ 1991 ([ZA2150.dta](http://dx.doi.org/10.4232/1.2150)) and 1998 ([ZA3190.dta](http://dx.doi.org/10.4232/1.3190)).
 
 ###### Note: 2016 is not necessary for replicating Breznau (2017) and Breznau (forthcoming).
+
+## OECD
+
+Breznau (2016) and Breznau (forthcoming) have the codes for the socx variable programmed by hand to preserve their integrity. Breznau (working) has a convenient merge file [socx80to16.dta] containing the OECD's Social Expenditures values for total public expenditures as a percentage of GDP, downloaded from [stats.oecd](http://stats.oecd.org).
 
