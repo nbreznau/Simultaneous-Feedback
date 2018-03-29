@@ -10,7 +10,7 @@ Breznau, Nate. forthcoming. “[Simultaneous Feedback Models with Macro-Comparat
 
 And for the working paper:
 
-Breznau, Nate. working. "Positive Return Decay: The Declining Role of Social Policy Preferences in Democracies." _still under production_
+Breznau, Nate. working. "Decaying Positive Returns to Public Opinion and Social Policy: The Decline of Democratic Feedback." _still under production_
 
 
 # Constructing the Datasets
