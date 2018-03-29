@@ -8,4 +8,8 @@ Breznau, Nate. forthcoming. “[Simultaneous Feedback Models with Macro-Comparat
 
 
 # Constructing the Datasets
-## 
+## ISSP 
+To build the macro-data used in the replication, users must get access to the ISSP data via GESIS/ZACAT. Then dowload the following data in Stata format and save to the path "C:/data/": 
+
+__Role of Government__ 1985 ([ZA1490.dta](http://dx.doi.org/10.4232/1.1490)), 1990 ([ZA1950.dta](http://dx.doi.org/10.4232/1.1950)) and 1996 ([ZA2900.dta](http://dx.doi.org/10.4232/1.2900)).
+
