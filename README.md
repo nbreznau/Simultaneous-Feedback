@@ -33,5 +33,5 @@ Breznau (2017; forthcoming) uses the Comparative Welfare Entitlements Dataset ([
 
 ### Export to Mplus
 
-I executed the first part of the project using _Mplus_. Thus, the Stata part preps all the data for use in Mplus. The Mplus output and .dat files are available in the zipped folder [Mplus_Output] , this folder includes four examples of Mplus input files representing the preferred models in Table 3 of Breznau (2017:599).
+I executed the first part of the project using _Mplus_. Thus, the _Stata_ part preps all the data for use in _Mplus_. The _Mplus_ output and .dat files are available in the zipped folder [Mplus_Output.zip] , this folder includes four examples of _Mplus_ input files representing the preferred models in Table 3 of Breznau (2017:599).
 
