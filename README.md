@@ -1,6 +1,6 @@
 # Research: Simultaneous Feedback between Opinion and Policy
 
-# CURRENTLY UNDER CONSTRUCTION!!
+##### STILL UNDER CONSTRUCTION!!
 
 This Repository provides tehnical specs and code for my research investigating feedback between public opinion and social policy using [ISSP](http://www.issp.org/menu-top/home/) data. This repository provides the basic data work up and then specific analyses for the following published papers:
 
