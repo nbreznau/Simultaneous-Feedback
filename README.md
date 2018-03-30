@@ -33,5 +33,11 @@ Breznau (2017; forthcoming) uses the Comparative Welfare Entitlements Dataset ([
 
 ### Export to Mplus
 
-I executed the first part of the project using _Mplus_. Thus, the _Stata_ part preps all the data for use in _Mplus_. The _Mplus_ output and .dat files are available in the zipped folder [Mplus_Output.zip](https://github.com/nbreznau/Simultaneous-Feedback/blob/master/Mplus_Output.zip), this folder includes four examples of _Mplus_ input files representing the preferred models in Table 3 of Breznau (2017:599).
+I executed the first part of the project using _Mplus_. Thus, the _Stata_ part preps all the data for use in _Mplus_. The _Mplus_ output and .dat files are available in the zipped folder [Mplus_Output.zip](https://github.com/nbreznau/Simultaneous-Feedback/blob/master/Mplus_Output.zip)
+
+## Replication "Positive Returns and Equilibrium" (Breznau 2017)
+
+The _Stata_ project [Simultaneous_Feedback.stpr](https://github.com/nbreznau/Simultaneous-Feedback/blob/master/Simultaneous_Feedback.stpr) contains the [master.do](https://github.com/nbreznau/Simultaneous-Feedback/blob/master/master.do) file that executes the ISSP data merge ([sfm_merge.do](https://github.com/nbreznau/Simultaneous-Feedback/blob/master/sfm_merge.do)), data setup ([feedback1.do](https://github.com/nbreznau/Simultaneous-Feedback/blob/master/feedback1.do)), the merging of other variables ([feedback4.do](https://github.com/nbreznau/Simultaneous-Feedback/blob/master/feedback4.do)) and finally the output to _Mplus_ readable files ([feedback2mplus.do](https://github.com/nbreznau/Simultaneous-Feedback/blob/master/feedback2mplus.do)).
+
+[Mplus_Output.zip](https://github.com/nbreznau/Simultaneous-Feedback/blob/master/Mplus_Output.zip) contains all output, data and four examples of _Mplus_ input files for the preferred models in Table 3 of Breznau (2017:599).
 
