@@ -27,3 +27,6 @@ __Religion__ 1991 ([ZA2150.dta](http://dx.doi.org/10.4232/1.2150)) and 1998 ([ZA
 
 Breznau (2016) and Breznau (forthcoming) have the codes for the socx variable programmed by hand to preserve their integrity. Breznau (working) has a convenient merge file [socx80to16.dta](https://github.com/nbreznau/Simultaneous-Feedback/raw/master/socx80to16.dta) containing the OECD's Social Expenditures values for total public expenditures as a percentage of GDP, downloaded from [stats.oecd](http://stats.oecd.org) on 29.03.2018 at 21:31.
 
+## Decommodification
+
+Breznau (2016; forthcoming) uses the Comparative Welfare Entitlements Dataset ([CWED](http://cwed2.org/)). File available herein as [scruggs.dta](https://github.com/nbreznau/Simultaneous-Feedback/raw/master/scruggs.dta).
